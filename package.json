@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Tr4vi5/jesting#readme",
   "devDependencies": {
     "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
   }
 }
